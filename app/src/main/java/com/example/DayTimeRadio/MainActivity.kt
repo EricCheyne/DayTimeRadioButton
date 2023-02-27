@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.DayTimeRadio
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -6,6 +6,7 @@ import android.widget.Button
 import android.widget.RadioButton
 import android.widget.RadioGroup
 import android.widget.Toast
+import com.example.myapplication.R
 
 class MainActivity : AppCompatActivity() {
 
